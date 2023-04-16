@@ -21,7 +21,7 @@ sub _reconcile {
 		});
 	}
 
-	# TODO Other reconncilations.
+	# TODO Other reconncilations like author and name and year if exist
 
 	return @sparql;
 }
